@@ -1,6 +1,0 @@
-help: Disable peer
-
-delete:
-       if [ -n "$VAR(../endpoint)" ]; then
-         sudo wg set $VAR(../../@) peer $VAR(../@) endpoint "$VAR(../endpoint/@)"
-       fi
