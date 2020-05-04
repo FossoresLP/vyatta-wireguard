@@ -1,3 +1,8 @@
+# This repository is deprecated in favor of https://github.com/WireGuard/wireguard-vyatta-ubnt.
+
+All new releases will happen there.
+
+
 Wireguard for Ubiquity
 ======================
 
